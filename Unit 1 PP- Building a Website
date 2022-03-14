@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <meta http-equiv="X-UA-Compatible" content="ie=edge">
+            <title>Practice</title>
+    </head>
+    <body>
+<header>
+            <h1>KJ Johnson</h1>
+            <nav>
+                <ul>
+                    <li><a href="#my-start">My Start</a></li>
+                    <li><a href="#details">Details</a></li>
+                    <li><a href="#social-media">Social Media</a></li>
+                </ul>    
+            </nav>
+</header>
+<main>
+        <img src="Opossum.jpg" height="200px"
+      alt="Hangin' with Athena the Opossum"/>
+        <p>Hey y'all! I'm a Certified Dog Trainer 
+            who specializes in aggression and 
+            anxiety. I've got a dog named Crash and a
+            cat named Beemo. I love to hike. I'm looking forward 
+            to floating down the river when the weather
+            warms up. </p>
+            <h2 id="my-start">How I got my start</h2>
+                 <p>I have a few friends who've gone through 
+                    the GC program and have highly recommended it.
+                    I'm looking forward to getting acquainted with coding 
+                    and start an exciting new career!
+                 </p>
+            <h2 id="details">Details</h2>
+                <h3>Favorites</h3>
+                <ol>
+               <li>My favorite <strong>book</strong> is <cite>Annihilation</cite>.</li>
+               <li>My Favorite <strong>movie</strong> is <cite>Rocky Horror Picture Show</cite>.</li>
+            </ol>
+        <h3>Pets</h3>
+        <table>
+            <tr>
+                <th>Name</th>
+                <th>Type</th>
+                <th>Age</th>
+            </tr>
+            <tr>
+                <td>Beemo</td>
+                <td>Cat</td>
+                <td>9</td>
+            </tr>
+            <tr>
+                <td>Crash</td>
+                <td>Dog</td>
+                <td>1.5</td>
+            </tr>
+                
+
+
+
+        </table>
+</main>
+    <footer>          
+        <h3 id="social-media">Social Media</h3> 
+        <ul>
+            <li>
+                <img src="GitHub-Mark-64px.png" height="64px"
+                alt="GitHub Logo"/> 
+                <a href="https://github.com/KajeJohnson">Get in my GitHub</a>
+            </li>
+            
+            <li>
+                <img src="LI-In-Bug.png" height="64px"
+                alt="LinkdIn Logo"/> 
+                <a href="https://www.linkedin.com/school/grandcircus/mycompany/">Link with my LinkdIn</a>
+            </li>
+        </ul>        
+    </footer>  
+
+
+
+        
+
+    </body>
+</html>
